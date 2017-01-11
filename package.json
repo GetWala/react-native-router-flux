@@ -4,7 +4,7 @@
   "description": "React Native Router using Flux architecture",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aksonov/react-native-router-flux"
+    "url": "https://github.com/GetWala/react-native-router-flux"
   },
   "main": "index.js",
   "typings": "index.d.ts",
